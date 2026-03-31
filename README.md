@@ -40,9 +40,12 @@ A stunning, modern web browser with liquid glass design aesthetics, built with P
 - **New Tab Crash**: Fixed initialization order to prevent crashes when creating new tabs
 - **Stability Improvements**: Added error handling for better reliability
 
-## � Screenshots
+## 📸 Screenshots
 
-Screenshots of the Pratik Browser interface and features are stored in the [`screenshots/`](screenshots/) folder. To add new screenshots:
+### Main Interface
+![Pratik Browser Main Interface](screenshots/Screenshot%202026-03-31%20at%208.22.50%E2%80%AFPM.png)
+
+*Screenshots of the Pratik Browser interface and features are stored in the [`screenshots/`](screenshots/) folder. To add new screenshots:*
 
 1. Take screenshots of the browser in action
 2. Save them in the `screenshots/` folder with descriptive names (e.g., `main-interface.png`, `tabbed-browsing.png`)
